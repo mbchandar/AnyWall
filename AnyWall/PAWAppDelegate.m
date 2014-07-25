@@ -80,7 +80,7 @@ void uncaughtExceptionHandler(NSException *exception);
 	// Fill in with your Parse credentials:
 	// ****************************************************************************
 
-	[Parse setApplicationId:@"your-application-id-here" clientKey:@"your-client-key-here"];
+	[Parse setApplicationId:@"sAOo9RLVC6icOSdBOHDQpNxqFJhGSXitHFYHretj" clientKey:@"1WkbkAIzUm9hhFJlxc4LYByBl12cB8eKdlyvbnX8"];
 
 	// Grab values from NSUserDefaults:
 	NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];

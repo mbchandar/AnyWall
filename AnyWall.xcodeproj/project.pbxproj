@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2F3BD81214F20F9E00BDC051 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F3BD81114F20F9E00BDC051 /* Default@2x.png */; };
 		2F3BD81414F2117100BDC051 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F3BD81314F2117100BDC051 /* Default.png */; };
+		6C35B132173E660B0040AB09 /* PAWWallPostsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E572726A14E0807F004A9423 /* PAWWallPostsTableViewController.m */; };
 		6D97114C16F7C36600B50B57 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D97114B16F7C36600B50B57 /* Default-568h@2x.png */; };
 		6D97114E16F7C60A00B50B57 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D97114D16F7C60A00B50B57 /* Parse.framework */; };
 		74D131E61582A7420065F1D2 /* Anywall-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 74D131E51582A7420065F1D2 /* Anywall-Info.plist */; };
@@ -389,7 +390,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = Parse;
 			};
-			buildConfigurationList = E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "Anywall" */;
+			buildConfigurationList = E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "AnyWall" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -454,6 +455,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C35B132173E660B0040AB09 /* PAWWallPostsTableViewController.m in Sources */,
 				E56E840314D72E1100E856AB /* main.m in Sources */,
 				E56E840714D72E1100E856AB /* PAWAppDelegate.m in Sources */,
 				E56E840A14D72E1100E856AB /* PAWWelcomeViewController.m in Sources */,
@@ -710,7 +712,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "Anywall" */ = {
+		E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "AnyWall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E56E840E14D72E1100E856AB /* Debug */,
